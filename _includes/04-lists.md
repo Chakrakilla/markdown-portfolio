@@ -1,3 +1,3 @@
-Camping
-Food
-Sleep
+- Camping
+- Food
+- Sleep
